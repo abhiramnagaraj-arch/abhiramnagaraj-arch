@@ -1,41 +1,46 @@
- <div align="center">
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Abhiram+Nagaraj;Software+Engineer+%7C+AI+%26+Backend;Building+systems%2C+not+just+demos." alt="Developer introduction"/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/abhiramnagaraj-arch)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=abhiram.nagaraj;software+engineer+%7C+AI+%26+backend;building+systems+with+curiosity." alt="Developer introduction"/>
 
 </div>
 
-```python
-class Abhiram:
-    focus = ["AI Engineering", "Backend Systems", "Search"]
-    building = ["RAG", "LLM-powered applications"]
-    mindset = "Understand it. Build it. Improve it."
+```text
+$ whoami
+AI • Backend • Search & Retrieval
+
+$ interests
+LLMs / RAG / Semantic Search / System Design
 ```
 
-### `~/stack`
+### `// TOOLKIT`
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,ruby,rails,postgres,docker,git,linux&theme=dark" alt="Python, FastAPI, Ruby, Rails, PostgreSQL, Docker, Git and Linux"/>
+**Languages & Backend**
 
-`LangChain` · `Ollama` · `ChromaDB` · `Elasticsearch`
+<div align="left">
+<img src="https://skillicons.dev/icons?i=python,java,ruby,rails,fastapi,postgres&theme=dark" alt="Python, Java, Ruby, Rails, FastAPI and PostgreSQL"/>
+</div>
 
-### `~/projects`
+**AI & Data**
 
-| Project | What it does |
-|---|---|
-| **AI-Bot** | RAG · Hybrid retrieval · Local LLMs |
-| **Email Summarizer** | AI-powered text processing |
-| **E-Commerce** | Ruby on Rails · AngularJS |
+<div align="left">
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,elasticsearch&theme=dark" alt="TensorFlow, OpenCV and Elasticsearch"/>
+<img src="https://img.shields.io/badge/LangChain-161B22?style=flat-square&logo=chainlink&logoColor=58A6FF" alt="LangChain"/>
+<img src="https://img.shields.io/badge/Ollama-161B22?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/>
+<img src="https://img.shields.io/badge/ChromaDB-161B22?style=flat-square&logoColor=58A6FF" alt="ChromaDB"/>
+</div>
 
-[Browse all repositories →](https://github.com/abhiramnagaraj-arch?tab=repositories)
+**Tools & Infrastructure**
+
+<div align="left">
+<img src="https://skillicons.dev/icons?i=docker,git,linux,bash,vscode&theme=dark" alt="Docker, Git, Linux, Bash and VS Code"/>
+</div>
 
 ---
 
+<sub>Outside the terminal: 🎸 music · 📷 photography · AI experiments</sub>
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhiramnagaraj-arch&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&hide_title=true" height="140" alt="GitHub statistics"/>
-
-<sub>Always building. Always learning.</sub>
+<a href="https://github.com/abhiramnagaraj-arch">GitHub</a> · <a href="https://www.linkedin.com/">LinkedIn</a>
 
 </div>
