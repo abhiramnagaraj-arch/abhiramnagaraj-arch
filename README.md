@@ -1,46 +1,53 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=abhiram.nagaraj;software+engineer+%7C+AI+%26+backend;building+systems+with+curiosity." alt="Developer introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=25&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=45&lines=Abhiram+Nagaraj;Software+Engineer;AI+%C3%97+Backend+%C3%97+Distributed+Systems" alt="Abhiram Nagaraj — developer identity"/>
 
-</div>
+**Building intelligent applications and reliable systems.**
 
-```text
-$ whoami
-AI • Backend • Search & Retrieval
+<sub>Backend engineering · LLMs & retrieval · Distributed systems</sub>
 
-$ interests
-LLMs / RAG / Semantic Search / System Design
-```
+<br/>
 
-### `// TOOLKIT`
+<a href="https://github.com/abhiramnagaraj-arch">GitHub</a> · <a href="https://www.linkedin.com/">LinkedIn</a>
 
-**Languages & Backend**
-
-<div align="left">
-<img src="https://skillicons.dev/icons?i=python,java,ruby,rails,fastapi,postgres&theme=dark" alt="Python, Java, Ruby, Rails, FastAPI and PostgreSQL"/>
-</div>
-
-**AI & Data**
-
-<div align="left">
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,elasticsearch&theme=dark" alt="TensorFlow, OpenCV and Elasticsearch"/>
-<img src="https://img.shields.io/badge/LangChain-161B22?style=flat-square&logo=chainlink&logoColor=58A6FF" alt="LangChain"/>
-<img src="https://img.shields.io/badge/Ollama-161B22?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/>
-<img src="https://img.shields.io/badge/ChromaDB-161B22?style=flat-square&logoColor=58A6FF" alt="ChromaDB"/>
-</div>
-
-**Tools & Infrastructure**
-
-<div align="left">
-<img src="https://skillicons.dev/icons?i=docker,git,linux,bash,vscode&theme=dark" alt="Docker, Git, Linux, Bash and VS Code"/>
 </div>
 
 ---
 
-<sub>Outside the terminal: 🎸 music · 📷 photography · AI experiments</sub>
+### `01 / TOOLCHAIN`
+
+<p><strong>Languages & Backend</strong></p>
+
+<img src="https://skillicons.dev/icons?i=python,ruby,rails,fastapi,java,postgres&theme=dark" alt="Python, Ruby, Rails, FastAPI, Java and PostgreSQL"/>
+
+<p><strong>AI & Information Retrieval</strong></p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" alt="TensorFlow and OpenCV"/>
+<img src="https://img.shields.io/badge/LangChain-161B22?style=flat-square&logo=chainlink&logoColor=58A6FF" alt="LangChain"/>
+<img src="https://img.shields.io/badge/Ollama-161B22?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/>
+<img src="https://img.shields.io/badge/ChromaDB-161B22?style=flat-square&logoColor=58A6FF" alt="ChromaDB"/>
+<img src="https://img.shields.io/badge/Elasticsearch-161B22?style=flat-square&logo=elasticsearch&logoColor=58A6FF" alt="Elasticsearch"/>
+
+<p><strong>Infrastructure & Systems</strong></p>
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,bash&theme=dark" alt="Docker, Kubernetes, Linux, Git and Bash"/>
+
+`Ejabberd` · `XMPP` · `WebRTC` · `Keycloak` · `Argo CD`
+
+---
+
+### `02 / AREAS I EXPLORE`
+
+```text
+01  AI systems          → RAG, local inference, NLP
+02  Information retrieval → Embeddings, search, ranking
+03  Backend engineering → APIs, databases, authentication
+04  Distributed systems → Messaging, clustering, networking
+05  Infrastructure      → Containers, deployment, GitOps
+```
 
 <div align="center">
 
-<a href="https://github.com/abhiramnagaraj-arch">GitHub</a> · <a href="https://www.linkedin.com/">LinkedIn</a>
+<sub>Outside the terminal: 🎸 music · 📷 photography · experiments with AI</sub>
 
 </div>
